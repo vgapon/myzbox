@@ -6,7 +6,7 @@ version="1.0"
 
 echo "Hello World. Shell script version=${version}"
 
-echo "Waiting some seconds for next script ..."
+echo "Waiting some seconds (10) for next script ..."
 sleep 10
 
 ./script_hw.rb
