@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 #!/usr/bin/ruby1.9.3
 
-# script_hw.rb Version 1.0.1 on 2014-10-22
+# script_hw.rb Version 1.0.1 on 2014-10-30
 
 version = '1.0.1'
 

@@ -1,5 +1,5 @@
 #!/bin/sh
-# script_hw.sh Version 1.0 on 2014-10-22
+# script_hw.sh Version 1.0 on 2014-10-30
 
 
 version="1.0"
