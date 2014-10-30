@@ -1,6 +1,6 @@
 #!/bin/sh
 # script_hw.sh Version 1.0 on 2014-10-22
-
+# Author Volodymyr
 
 version="1.0"
 
