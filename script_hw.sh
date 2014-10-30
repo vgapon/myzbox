@@ -1,8 +1,8 @@
 #!/bin/sh
 # script_hw.sh Version 1.0 on 2014-10-22
+# Author Pavlo 
 
-
-version="1.0"
+version="1.1"
 
 echo "Hello World. Shell script version=${version}"
 
